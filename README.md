@@ -2,7 +2,7 @@
 
 <img src="https://vipestudio.com/wp-content/uploads/2020/06/unnamed-file.wp.gif" alt="Pixel Art" align="right" width="200">
 
-### Technologies and tools:
+### Technologies and tools: 🛠
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" width="40" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -25,6 +25,12 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=micher12&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micher12&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
+</div>
+
+### Some projects
+<div >
+   <p><a target="_blank" href="https://eletronicaowl.vercel.app" style="text-decoration: none">◻️ Eletrônica Owl</a></p>
+   <p><a target="_blank" href="https://draalinne.com/">◻️ Dra Alinne</a></p>
 </div>
     
 ### Contact
