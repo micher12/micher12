@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&lines=%3CHello+Word%2F%3E+I'm+Michel+FullStack+Dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&lines=%3CHello+World%2F%3E+I'm+Michel+FullStack+Dev.)](https://git.io/typing-svg)
 
 <img src="https://vipestudio.com/wp-content/uploads/2020/06/unnamed-file.wp.gif" alt="Pixel Art" align="right" width="200">
 
