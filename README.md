@@ -29,8 +29,10 @@
 
 ### Some projects
 <div >
-   <p><a target="_blank" href="https://eletronicaowl.vercel.app" style="text-decoration: none">◻️ Eletrônica Owl</a></p>
-   <p><a target="_blank" href="https://draalinne.com/">◻️ Dra Alinne</a></p>
+   <p><a target="_blank" href="https://eletronicaowl.vercel.app" style="text-decoration: none">💻 Eletrônica Owl</a></p>
+   <p><a target="_blank" href="https://github.com/micher12/planetai">🤖 PlanetAi</a></p>
+   <p><a target="_blank" href="https://github.com/micher12/letmeask">🚀 LetMeAsk</a></p>
+   <p><a target="_blank" href="https://code12.vercel.app/">✅ Portfólio</a></p>
 </div>
     
 ### Contact
